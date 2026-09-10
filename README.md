@@ -4,6 +4,7 @@ A very simple Toolkit for RPG Tabletop
 Specifically "The Last Hero"
 Fully made with vibe coding
 
+
 You can execute the .py file with python:
 
 winget install Python.Python.3.11
@@ -11,6 +12,7 @@ winget install Python.Python.3.11
 Pillow dependancy:
 
 pip install Pillow
+
 
 Features:
 - Roll dices with logs
