@@ -5,6 +5,7 @@ Fully made with vibe coding
 
 You can use the .py file with python:
 winget install Python.Python.3.11
+
 Pillow dependancy: 
 pip install Pillow
 
