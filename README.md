@@ -19,3 +19,4 @@ Features:
 - Create and edit you character sheet
 - Somes notes
 - All autosaved in: C:\Users\USERNAME\AppData\Roaming\THE_LAST_HERO\grimoire_autosave.json
+- Use CTRL + Mousewheel to zoom
