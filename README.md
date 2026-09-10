@@ -7,11 +7,11 @@ Fully made with vibe coding
 
 You can execute the .py file with python:
 
-winget install Python.Python.3.11
+> winget install Python.Python.3.11
 
 Pillow dependancy:
 
-pip install Pillow
+> pip install Pillow
 
 
 Features:
