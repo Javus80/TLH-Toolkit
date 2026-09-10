@@ -5,7 +5,7 @@ Specifically "The Last Hero"
 Fully made with vibe coding
 
 
-You can execute the .py file with python:
+Download the Windows executable, or execute the .py file with python:
 
 > winget install Python.Python.3.11
 
