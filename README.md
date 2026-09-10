@@ -1,14 +1,11 @@
 # TLH-Toolkit
 A very simple Toolkit for RPG Tabletop
-Specificaly "The Last Hero"
+Specifically "The Last Hero"
 Fully made with vibe coding
 
-You can use the .py file with python:
-
+You can execute the .py file with python:
 winget install Python.Python.3.11
-
 Pillow dependancy:
-
 pip install Pillow
 
 Features:
